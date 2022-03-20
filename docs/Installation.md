@@ -27,7 +27,7 @@ The ML-Agents Toolkit contains several components:
 Consequently, to install and use the ML-Agents Toolkit you will need to:
 
 - Install Unity (2020.3 or later)
-- Install Python (3.6.1 or higher)
+- Install Python (3.6.1 or but no later that 3.9.9 tested 20/03/2022)
 - Clone this repository (Optional)
   - __Note:__ If you do not clone the repository, then you will not be
   able to access the example environments and training configurations or the
